@@ -1,0 +1,9 @@
+[package]
+name = "{{project-name}}"
+description = "{{project-description}}"
+repository = "https://github.com/{{gh-username}}/{{project-name}}"
+license = "MIT"
+version = "0.0.0"
+
+categories = []
+keywords = []
