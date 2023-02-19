@@ -6,7 +6,7 @@ Thank you for considering contributing to this project!
    [code of conduct](CODE_OF_CONDUCT.md).
 2. Please read this document before contributing.
 3. For non-trivial changes, please
-   [open an issue](https://github.com/{{gh-username}}/{{project-name}}/new)
+   [open an issue](https://github.com/matanlurey/{{project-name}}/issues/new)
    first to discuss your proposal.
 
 ## Pull Requests
@@ -47,7 +47,7 @@ If the required sub-section does not exist under `[Unreleased]`, create it:
 This project uses standard Rust tooling. To get started, run:
 
 ```sh
-git clone https://github.com/{{gh-username}}/{{project-name}}
+git clone https://github.com/matanlurey/{{project-name}}
 cd {{project-name}}
 cargo test
 ```
