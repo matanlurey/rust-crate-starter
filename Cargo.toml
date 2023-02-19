@@ -4,6 +4,7 @@ description = "{{project-description}}"
 repository = "https://github.com/{{gh-username}}/{{project-name}}"
 license = "MIT"
 version = "0.0.0"
+edition = "2021"
 
 categories = []
 keywords = []
